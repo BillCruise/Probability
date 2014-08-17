@@ -28,11 +28,11 @@ def theater_row():
 # find how many couples there are in the row
 def couples(row):
     a = 0
-    b = 2
+    b = 1
     count = 0
     
-    while(b <= len(row)):
-        if((not all(row[a:b])) and any(row[a:b])):
+    while(b < len(row)):
+        if(row[a] != row[b]):
             count += 1
         a += 1
         b += 1
