@@ -12,7 +12,7 @@ def collecting_coupons():
     samples = 10000
     total = 0
 
-    for i in range(1, samples):
+    for i in range(samples):
         coupons = [False] * 5
         count = 0
         

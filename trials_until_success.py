@@ -10,7 +10,7 @@ def trials_until_success():
     samples = 10000
     total = 0;
     
-    for i in range(1, samples):
+    for i in range(samples):
         throws = 1
         die = random.randint(1, 6)
         

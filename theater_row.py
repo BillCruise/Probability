@@ -18,7 +18,7 @@ def theater_row():
     grooms = [True] * 8
     row = brides + grooms
     
-    for i in range(1, samples):
+    for i in range(samples):
         random.shuffle(row)
         total += couples(row)
 
