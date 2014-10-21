@@ -6,7 +6,7 @@
 # the card below in repetitions of this experiment?
 #
 # From: Fifty Challenging Problems in Probability
-#       by Frederic Mosteller
+#       by Frederick Mosteller
 #       Problem 45
 
 import random

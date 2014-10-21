@@ -3,7 +3,7 @@
 # probability that exactly 50 are heads?
 #
 # From: Fifty Challenging Problems in Probability
-#       by Frederic Mosteller
+#       by Frederick Mosteller
 #       Problem 18
 
 import random

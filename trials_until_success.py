@@ -1,7 +1,7 @@
 # Trials until success
 # On average, how many times must a die be thrown until one rolls a six?
 # From: Fifty Challenging Problems in Probability
-#       by Frederic Mosteller
+#       by Frederick Mosteller
 #       Problem 4
 
 import random

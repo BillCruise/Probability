@@ -7,7 +7,7 @@
 # Which series should Elmer choose?
 #
 # From: Fifty Challenging Problems in Probability
-#       by Frederic Mosteller
+#       by Frederick Mosteller
 #       Problem 2
 
 import random

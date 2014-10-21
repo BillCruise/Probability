@@ -3,7 +3,7 @@
 # of each is required for a prize. With one coupon per box, how
 # many boxes on average are required to make a compete set?
 # From: Fifty Challenging Problems in Probability
-#       by Frederic Mosteller
+#       by Frederick Mosteller
 #       Problem 14
 
 import random

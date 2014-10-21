@@ -7,7 +7,7 @@
 # wins the runner-up cup?
 #
 # From: Fifty Challenging Problems in Probability
-#       by Frederic Mosteller
+#       by Frederick Mosteller
 #       Problem 16
 
 import random

@@ -5,7 +5,7 @@
 # sixes when 18 dice are rolled. What is the answer?
 #
 # From: Fifty Challenging Problems in Probability
-#       by Frederic Mosteller
+#       by Frederick Mosteller
 #       Problem 19
 
 import random

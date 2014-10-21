@@ -4,7 +4,7 @@
 # On the average, how many cards are required until the first ace appears?
 #
 # From: Fifty Challenging Problems in Probability
-#       by Frederic Mosteller
+#       by Frederick Mosteller
 #       Problem 40
 
 import random

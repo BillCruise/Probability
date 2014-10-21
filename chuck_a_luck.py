@@ -8,7 +8,7 @@
 # several numbers, but each such stake can be regarded as a separate bet.)
 #
 # From: Fifty Challenging Problems in Probability
-#       by Frederic Mosteller
+#       by Frederick Mosteller
 #       Problem 6
 
 import random

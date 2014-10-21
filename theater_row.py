@@ -5,7 +5,7 @@
 # of adjacent seats are ticketed for marriageable couples?
 #
 # From: Fifty Challenging Problems in Probability
-#       by Frederic Mosteller
+#       by Frederick Mosteller
 #       Problem 15
 
 import random

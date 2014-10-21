@@ -8,7 +8,7 @@
 # gets his original stake back; otherwise he loses his stake.)
 #
 # From: Fifty Challenging Problems in Probability
-#       by Frederic Mosteller
+#       by Frederick Mosteller
 #       Problem 7
 
 import random

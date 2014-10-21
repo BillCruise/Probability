@@ -6,7 +6,7 @@
 # has the better probability of making the correct decision?
 #
 # From: Fifty Challenging Problems in Probability
-#       by Frederic Mosteller
+#       by Frederick Mosteller
 #       Problem 3
 
 import random
