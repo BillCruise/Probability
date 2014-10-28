@@ -18,6 +18,7 @@ def hurried_duelers():
     for i in range(samples):
         d1 = random.randint(1, 3600)
         d2 = random.randint(1, 3600)
+        
         if abs(d1 - d2) < 300:
             total += 1
 
