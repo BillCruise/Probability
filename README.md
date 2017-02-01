@@ -20,6 +20,7 @@ The following problems come from [Fifty Challenging Problems in Probability](htt
 * [Lengths of Random Chords](scripts/length_of_random_chords.py)
 * [The Hurried Duelers](scripts/hurried_duelers.py)
 * [Catching the Cautious Counterfeiter](scripts/catching_the_cautious_counterfeiter.py)
+* [Gambler's Ruin](scripts/gamblers_ruin.py)
 * [Bold Play vs. Cautious Play](scripts/bold_play_vs_cautious_play.py)
 * [The Clumsy Chemist](scripts/clumsy_chemist.py)
 * [The First Ace](scripts/first_ace.py)
