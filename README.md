@@ -38,3 +38,5 @@ The following problems come from various other sources.
 * [Coin Flip Sequences](scripts/coin_flip_sequences.py)
 * [Minority Selection](scripts/minority_selection.py)
 * [The Petersburg Paradox](scripts/petersburg_paradox.py)
+* [Gummy Bears](scripts/gummy_bears.py) (From [Data Science Renee](https://twitter.com/BecomingDataSci/status/826635249341911044))
+
