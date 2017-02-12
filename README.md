@@ -40,4 +40,5 @@ The following problems come from various other sources.
 * [The Petersburg Paradox](scripts/petersburg_paradox.py)
 * [Gummy Bears](scripts/gummy_bears.py) (From [Data Science Renee](https://twitter.com/BecomingDataSci/status/826635249341911044))
 * [Missiles](scripts/missiles.py)
+* [Quiz Answers](scripts/quiz_answers.py)
 
