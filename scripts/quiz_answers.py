@@ -7,7 +7,7 @@
 # learn to just pick the middle answer.
 # Create a strategy for automatically generating answers so that
 # the correct answer is the lowest choice 1/3 of the time, the middle
-# choic 1/3 of the time, and the highest choice 1/3 of the time.
+# choice 1/3 of the time, and the highest choice 1/3 of the time.
 
 import random
 
