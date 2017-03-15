@@ -42,4 +42,5 @@ The following problems come from various other sources.
 * [Missiles](scripts/missiles.py)
 * [Quiz Answers](scripts/quiz_answers.py)
 * [Infinite Monkeys](scripts/infinite_monkeys.py)
+* [Yahtzee](scripts/yahtzee.py)
 
