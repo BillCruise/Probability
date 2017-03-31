@@ -43,4 +43,5 @@ The following problems come from various other sources.
 * [Quiz Answers](scripts/quiz_answers.py)
 * [Infinite Monkeys](scripts/infinite_monkeys.py)
 * [Yahtzee](scripts/yahtzee.py)
+* [Lunch in the Park](scripts/lunch_in_the_park.py) (From [FiveThirtyEight](https://fivethirtyeight.com/features/what-are-the-chances-well-meet-for-lunch/))
 
