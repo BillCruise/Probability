@@ -44,4 +44,5 @@ The following problems come from various other sources.
 * [Infinite Monkeys](scripts/infinite_monkeys.py)
 * [Yahtzee](scripts/yahtzee.py)
 * [Lunch in the Park](scripts/lunch_in_the_park.py) (From [FiveThirtyEight](https://fivethirtyeight.com/features/what-are-the-chances-well-meet-for-lunch/))
+* [A Painting Puzzle](scripts/painting_puzzle.py) (From [FiveThirtyEight](https://fivethirtyeight.com/features/can-you-solve-these-colorful-puzzles/))
 
