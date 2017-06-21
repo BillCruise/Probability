@@ -46,4 +46,5 @@ The following problems come from various other sources.
 * [Lunch in the Park](scripts/lunch_in_the_park.py) (From [FiveThirtyEight](https://fivethirtyeight.com/features/what-are-the-chances-well-meet-for-lunch/))
 * [A Painting Puzzle](scripts/painting_puzzle.py) (From [FiveThirtyEight](https://fivethirtyeight.com/features/can-you-solve-these-colorful-puzzles/))
 * [A Dicey Question](scripts/dicey_question.py) (From [Mental Gymnastics: Recreational Mathematics Puzzles](https://www.amazon.com/Mental-Gymnastics-Recreational-Mathematics-Puzzles/dp/0486480542/ref=asap_bc?ie=UTF8) by Dick Hess)
+* [Bags of Marbles](scripts/bags_of_marbles.py)
 
