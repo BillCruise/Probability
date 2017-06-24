@@ -6,6 +6,7 @@
 # what is the probability that the other marble in the same bag
 # is also white?
 
+from __future__ import division
 import random
 
 def bags_of_marbles():
@@ -41,9 +42,6 @@ def bags_of_marbles():
     print("Probability that 2nd marble was white when 1st marble was white:", white_2 / white_1)
             
             
-
-
-
 
 if __name__ == '__main__':
     bags_of_marbles()
