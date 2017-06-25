@@ -47,4 +47,5 @@ The following problems come from various other sources.
 * [A Painting Puzzle](scripts/painting_puzzle.py) (From [FiveThirtyEight](https://fivethirtyeight.com/features/can-you-solve-these-colorful-puzzles/))
 * [A Dicey Question](scripts/dicey_question.py) (From [Mental Gymnastics: Recreational Mathematics Puzzles](https://www.amazon.com/Mental-Gymnastics-Recreational-Mathematics-Puzzles/dp/0486480542/ref=asap_bc?ie=UTF8) by Dick Hess)
 * [Bags of Marbles](scripts/bags_of_marbles.py)
+* [Theater Seats](scripts/theater_seats.py) (From [7 friends are going to the cinema...](https://math.stackexchange.com/q/2332589/271304))
 
