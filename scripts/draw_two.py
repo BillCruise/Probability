@@ -1,6 +1,6 @@
 # Draw Two
 # Two numbers are drawn from the integers 1-10.
-# What's the expected value of their sum.
+# What's the expected value of their sum?
 # (With and without replacement.)
 # Based on https://twitter.com/MrHonner/status/917546796322377728
 
