@@ -38,7 +38,7 @@ The following problems come from various other sources.
 * [Coin Flip Sequences](scripts/coin_flip_sequences.py)
 * [Minority Selection](scripts/minority_selection.py)
 * [The Petersburg Paradox](scripts/petersburg_paradox.py)
-* [Gummy Bears](scripts/gummy_bears.py) (From [Data Science Renee](https://twitter.com/BecomingDataSci/status/826635249341911044))
+* [Gummy Bears](scripts/gummy_bears.py) (From [Data Science Renee on Twitter](https://twitter.com/BecomingDataSci/status/826635249341911044))
 * [Missiles](scripts/missiles.py)
 * [Quiz Answers](scripts/quiz_answers.py)
 * [Infinite Monkeys](scripts/infinite_monkeys.py)
@@ -48,4 +48,5 @@ The following problems come from various other sources.
 * [A Dicey Question](scripts/dicey_question.py) (From [Mental Gymnastics: Recreational Mathematics Puzzles](https://www.amazon.com/Mental-Gymnastics-Recreational-Mathematics-Puzzles/dp/0486480542/ref=asap_bc?ie=UTF8) by Dick Hess)
 * [Bags of Marbles](scripts/bags_of_marbles.py)
 * [Theater Seats](scripts/theater_seats.py) (From [7 friends are going to the cinema...](https://math.stackexchange.com/q/2332589/271304))
+* [Draw Two](scripts/draw_two.py) (From [Patrick Honner on Twitter](https://twitter.com/MrHonner/status/917546796322377728))
 
