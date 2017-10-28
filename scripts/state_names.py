@@ -19,7 +19,10 @@ def state_names():
     for word in lines:
         for char in word:
             freq[char] += 1
-    print(freq)
+
+    # sort letters by frequency
+    s_freq = sorted(freq.items(), key=lambda x: x[1])
+    print(s_freq)
 
 
 if __name__ == '__main__':
