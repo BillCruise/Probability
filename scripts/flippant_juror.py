@@ -2,7 +2,7 @@
 # A three-man jury has two members each of whom independently has
 # probability p of making the correct decision and a third member
 # who flips a coin for each decision (majority rules). A one-man
-# jury has probability p of mking the correct decision. Which jury
+# jury has probability p of making the correct decision. Which jury
 # has the better probability of making the correct decision?
 #
 # From: Fifty Challenging Problems in Probability
