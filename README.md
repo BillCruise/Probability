@@ -5,12 +5,12 @@ Programming solutions to problems in probability.
 
 The following problems come from [Fifty Challenging Problems in Probability](http://www.amazon.com/gp/product/B00A3M0VV8) by Frederick Mosteller.
 
-* [Successive Wins](scripts/successive_wins.py)
-* [The Flippant Juror](scripts/flippant_juror.py)
-* [Trials Until First Success](scripts/trials_until_success.py)
-* [Chuck-a-Luck](scripts/chuck_a_luck.py)
-* [Curing the Compulsive Gambler](scripts/curing_the_compulsive_gambler.py)
-* [Craps](scripts/craps.py)
+* [Successive Wins](scripts/successive_wins.py) - Which of two series offers a better probability of a win?
+* [The Flippant Juror](scripts/flippant_juror.py) - Which jury has a better probability of making the correct decision?
+* [Trials Until First Success](scripts/trials_until_success.py) - On average, how many times must a die be thrown until one rolls a six?
+* [Chuck-a-Luck](scripts/chuck_a_luck.py) - What is the player's expected loss per unit stake in chuck-a-luck?
+* [Curing the Compulsive Gambler](scripts/curing_the_compulsive_gambler.py) - Will a player be behind after 36 plays of one number in roulette?
+* [Craps](scripts/craps.py) - What is the player's chance to win at craps?
 * [Collecting Coupons](scripts/collecting_coupons.py)
 * [The Theater Row](scripts/theater_row.py)
 * [Will Second-Best Be Runner-Up?](scripts/second_best.py)
