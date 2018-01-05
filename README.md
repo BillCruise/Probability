@@ -11,11 +11,11 @@ The following problems come from [Fifty Challenging Problems in Probability](htt
 * [Chuck-a-Luck](scripts/chuck_a_luck.py) - What is the player's expected loss per unit stake in chuck-a-luck?
 * [Curing the Compulsive Gambler](scripts/curing_the_compulsive_gambler.py) - Will a player be behind after 36 plays of one number in roulette?
 * [Craps](scripts/craps.py) - What is the player's chance to win at craps?
-* [Collecting Coupons](scripts/collecting_coupons.py)
-* [The Theater Row](scripts/theater_row.py)
-* [Will Second-Best Be Runner-Up?](scripts/second_best.py)
-* [Twin Knights](scripts/twin_knights.py)
-* [An Even Split at Coin Tossing](scripts/even_split.py)
+* [Collecting Coupons](scripts/collecting_coupons.py) - How many coupons do you have to collect to compete a set of 5?
+* [The Theater Row](scripts/theater_row.py) - How many matches in a random assortment of 15?
+* [Will Second-Best Be Runner-Up?](scripts/second_best.py) - What is the probability that the 2nd-best player will be runner-up in a randomly seeded tournament?
+* [Twin Knights](scripts/twin_knights.py) - What are the odds that twins will meet in a tournament?
+* [An Even Split at Coin Tossing](scripts/even_split.py) - When 100 coins are tossed, what is the probability that exactly 50 are heads?
 * [Isaac Newton Helps Samuel Pepys](scripts/newton_helps_pepys.py)
 * [Lengths of Random Chords](scripts/length_of_random_chords.py)
 * [The Hurried Duelers](scripts/hurried_duelers.py)
