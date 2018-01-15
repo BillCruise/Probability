@@ -3,7 +3,7 @@
 # wire his wife for more money. He decides to invest in roulette (which
 # he doesn't enjoy playing) and is considering two strategies: bet the
 # $20 on "evens" all at once and quit if he wins or loses, or bet on
-# "evens" one dollar at a time until he has wone or lost $20.
+# "evens" one dollar at a time until he has won or lost $20.
 # Campare the merits of the strategies.
 #
 # From: Fifty Challenging Problems in Probability
