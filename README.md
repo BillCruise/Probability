@@ -16,12 +16,12 @@ The following problems come from [Fifty Challenging Problems in Probability](htt
 * [Will Second-Best Be Runner-Up?](scripts/second_best.py) - What is the probability that the 2nd-best player will be runner-up in a randomly seeded tournament?
 * [Twin Knights](scripts/twin_knights.py) - What are the odds that twins will meet in a tournament?
 * [An Even Split at Coin Tossing](scripts/even_split.py) - When 100 coins are tossed, what is the probability that exactly 50 are heads?
-* [Isaac Newton Helps Samuel Pepys](scripts/newton_helps_pepys.py)
-* [Lengths of Random Chords](scripts/length_of_random_chords.py)
-* [The Hurried Duelers](scripts/hurried_duelers.py)
-* [Catching the Cautious Counterfeiter](scripts/catching_the_cautious_counterfeiter.py)
-* [Gambler's Ruin](scripts/gamblers_ruin.py)
-* [Bold Play vs. Cautious Play](scripts/bold_play_vs_cautious_play.py)
+* [Isaac Newton Helps Samuel Pepys](scripts/newton_helps_pepys.py) - Which of three events is more likely when throwing dice?
+* [Lengths of Random Chords](scripts/length_of_random_chords.py) - If a chord is selected at random on a fixed circle, what is the probability that its length exceeds the radius of the circle?
+* [The Hurried Duelers](scripts/hurried_duelers.py) - If duelists arrive at random times, what fraction of duels lead to violence?
+* [Catching the Cautious Counterfeiter](scripts/catching_the_cautious_counterfeiter.py) - What is the probability of catching a counterfeiter?
+* [Gambler's Ruin](scripts/gamblers_ruin.py) - Under given conditions, what is the probability of player N winning?
+* [Bold Play vs. Cautious Play](scripts/bold_play_vs_cautious_play.py) - Compare the merits of two gambling strategies.
 * [The Clumsy Chemist](scripts/clumsy_chemist.py)
 * [The First Ace](scripts/first_ace.py)
 * [The Little End of the Stick](scripts/little_end_of_the_stick.py)
