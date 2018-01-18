@@ -22,11 +22,11 @@ The following problems come from [Fifty Challenging Problems in Probability](htt
 * [Catching the Cautious Counterfeiter](scripts/catching_the_cautious_counterfeiter.py) - What is the probability of catching a counterfeiter?
 * [Gambler's Ruin](scripts/gamblers_ruin.py) - Under given conditions, what is the probability of player N winning?
 * [Bold Play vs. Cautious Play](scripts/bold_play_vs_cautious_play.py) - Compare the merits of two gambling strategies.
-* [The Clumsy Chemist](scripts/clumsy_chemist.py)
-* [The First Ace](scripts/first_ace.py)
-* [The Little End of the Stick](scripts/little_end_of_the_stick.py)
-* [The Broken Bar](scripts/broken_bar.py)
-* [Average Number of Matches](scripts/average_number_of_matches.py)
+* [The Clumsy Chemist](scripts/clumsy_chemist.py) - What is the average length of randomly broken glass rods?
+* [The First Ace](scripts/first_ace.py) - How many cards are dealt from a shuffled deck before the first ace appears?
+* [The Little End of the Stick](scripts/little_end_of_the_stick.py) - What is the average length of the smaller piece of a randomly broken stick?
+* [The Broken Bar](scripts/broken_bar.py) - What are the average sizes of all pieces of a bar randomly broken in three pieces?
+* [Average Number of Matches](scripts/average_number_of_matches.py) - What is the average number of matches between two decks of shuffled cards?
 
 **Miscellaneous**
 
