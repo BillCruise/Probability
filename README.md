@@ -35,10 +35,10 @@ The following problems come from various other sources.
 * [All Aboard](scripts/all_aboard.py) (From [Futility Closet](https://www.futilitycloset.com/2012/02/29/all-aboard-5/)) - What’s the probability that the 100th passenger on an airlplane finds his seat occupied?
 * [Hit and Run](scripts/hit_and_run.py) (From [Randomness](https://www.amazon.com/Randomness-Deborah-J-Bennett/dp/0674107462/ref=asap_bc?ie=UTF8) by Deborah J. Bennet) - What is the probability that a cab involved in an accident was Blue rather than Green?
 * [Exceed 1](scripts/exceed_1.py) (From [Mathematics Stack Exchange](http://math.stackexchange.com/questions/111314/choose-a-random-number-between-0-and-1-and-record-its-value-keep-doing-it-until)) - What's the expected value of the number of random numbers needed to exceed 1?
-* [Coin Flip Sequences](scripts/coin_flip_sequences.py)
-* [Minority Selection](scripts/minority_selection.py)
-* [The Petersburg Paradox](scripts/petersburg_paradox.py)
-* [Gummy Bears](scripts/gummy_bears.py) (From [Data Science Renee on Twitter](https://twitter.com/BecomingDataSci/status/826635249341911044))
+* [Coin Flip Sequences](scripts/coin_flip_sequences.py) - Which sequence will take longer on average when flipping a fair coin, HTH or HTT?
+* [Minority Selection](scripts/minority_selection.py) - What is the probability that no member of a minority party will be selected out of N slots?
+* [The Petersburg Paradox](scripts/petersburg_paradox.py) - What would be a fair price to pay the casino for entering the game?
+* [Gummy Bears](scripts/gummy_bears.py) (From [Data Science Renee on Twitter](https://twitter.com/BecomingDataSci/status/826635249341911044)) - What is the probability of selecting 5 different flavors?
 * [Missiles](scripts/missiles.py)
 * [Quiz Answers](scripts/quiz_answers.py)
 * [Infinite Monkeys](scripts/infinite_monkeys.py)
