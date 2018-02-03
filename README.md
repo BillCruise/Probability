@@ -39,14 +39,14 @@ The following problems come from various other sources.
 * [Minority Selection](scripts/minority_selection.py) - What is the probability that no member of a minority party will be selected out of N slots?
 * [The Petersburg Paradox](scripts/petersburg_paradox.py) - What would be a fair price to pay the casino for entering the game?
 * [Gummy Bears](scripts/gummy_bears.py) (From [Data Science Renee on Twitter](https://twitter.com/BecomingDataSci/status/826635249341911044)) - What is the probability of selecting 5 different flavors?
-* [Missiles](scripts/missiles.py)
-* [Quiz Answers](scripts/quiz_answers.py)
-* [Infinite Monkeys](scripts/infinite_monkeys.py)
-* [Yahtzee](scripts/yahtzee.py)
-* [Lunch in the Park](scripts/lunch_in_the_park.py) (From [FiveThirtyEight](https://fivethirtyeight.com/features/what-are-the-chances-well-meet-for-lunch/))
-* [A Painting Puzzle](scripts/painting_puzzle.py) (From [FiveThirtyEight](https://fivethirtyeight.com/features/can-you-solve-these-colorful-puzzles/))
-* [A Dicey Question](scripts/dicey_question.py) (From [Mental Gymnastics: Recreational Mathematics Puzzles](https://www.amazon.com/Mental-Gymnastics-Recreational-Mathematics-Puzzles/dp/0486480542/ref=asap_bc?ie=UTF8) by Dick Hess)
-* [Bags of Marbles](scripts/bags_of_marbles.py)
-* [Theater Seats](scripts/theater_seats.py) (From [7 friends are going to the cinema...](https://math.stackexchange.com/q/2332589/271304))
-* [Draw Two](scripts/draw_two.py) (From [Patrick Honner on Twitter](https://twitter.com/MrHonner/status/917546796322377728))
+* [Missiles](scripts/missiles.py) - What is the probability that a target will be hit by any of four missiles?
+* [Quiz Answers](scripts/quiz_answers.py) - Generate a strategy for a quiz game.
+* [Infinite Monkeys](scripts/infinite_monkeys.py) - If infinite monkeys struck each of the 26 letters of a typewriter once, what is the probability that either name 'IAGO' or 'LEAR' would appear?
+* [Yahtzee](scripts/yahtzee.py) - What is the probability of rolling five of a kind when rolling five six-sided dice three times?
+* [Lunch in the Park](scripts/lunch_in_the_park.py) (From [FiveThirtyEight](https://fivethirtyeight.com/features/what-are-the-chances-well-meet-for-lunch/)) - What is the probability that two friends will meet for lunch?
+* [A Painting Puzzle](scripts/painting_puzzle.py) (From [FiveThirtyEight](https://fivethirtyeight.com/features/can-you-solve-these-colorful-puzzles/)) - What is the expected number of turns to finish a game?
+* [A Dicey Question](scripts/dicey_question.py) (From [Mental Gymnastics: Recreational Mathematics Puzzles](https://www.amazon.com/Mental-Gymnastics-Recreational-Mathematics-Puzzles/dp/0486480542/ref=asap_bc?ie=UTF8) by Dick Hess) - Which is greater when rolling five dice, the probability of rolling exactly one six, or the probabilit of rolling no sixes?
+* [Bags of Marbles](scripts/bags_of_marbles.py) - In the specified game, what is the probability that a second marble is white?
+* [Theater Seats](scripts/theater_seats.py) (From [7 friends are going to the cinema...](https://math.stackexchange.com/q/2332589/271304)) - Out of seven movie-goers, what is the probability that two friends won't sit together?
+* [Draw Two](scripts/draw_two.py) (From [Patrick Honner on Twitter](https://twitter.com/MrHonner/status/917546796322377728)) - Two numbers are drawn from the integers 1-10. What's the expected value of their sum?
 
