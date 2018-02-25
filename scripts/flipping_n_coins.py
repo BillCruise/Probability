@@ -2,7 +2,7 @@
 # You have 100 coins and you flip them all at the same time.
 # Any that come up tails you set aside. The ones that come up
 # heads you flip again. How many rounds do you expect to play
-# before all of the coins have come up tails?
+# before only one coin remains?
 # What if you start with 1000 coins?
 
 import random
